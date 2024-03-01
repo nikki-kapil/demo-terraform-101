@@ -10,4 +10,5 @@ Major changes:
 
 - A security group is created for SSH and HTTP
 - The configuration only uses resources built by the configuration itself 
+- Test
 
